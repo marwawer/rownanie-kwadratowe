@@ -9,7 +9,7 @@
    6.  cd rownaie-kwadratowe
    7.  cd rownanie-kwadratowe
    8.  git init
-   9  nano
+   9.  nano
   10.  gcc rownanie2.c -o rownanie2.o -lt
   11.  gcc rownanie2.c -o rownanie2.o -lm
   12.  ./rownanie2.o
